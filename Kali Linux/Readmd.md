@@ -1,0 +1,1 @@
+The Kali Linux Folder projects are from a follow along video I coded along side while watching that was created by Aleksa Tamburkovski you can find the video here: [youtube](https://www.youtube.com/watch?v=0NQ2aMxBYNE)
